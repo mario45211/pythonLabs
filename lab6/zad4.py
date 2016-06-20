@@ -130,3 +130,5 @@ ticketMachine.pushCoin(50)
 ticketMachine.pushCoin(20)
 ticketMachine.pushCoin(20)
 print(ticketMachine.cancel())
+
+print(ticketMachine._money)
